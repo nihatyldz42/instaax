@@ -1,0 +1,21 @@
+{
+  "name": "instaax",
+  "version": "1.0.0",
+  "description": "Instagram API's interface.INSTAAX.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0",
+    "fetch": "^1.1.0",
+    "fs-extra": "^9.0.1",
+    "jimp": "^0.16.1",
+    "mongoose": "^5.10.5",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "author": "NR42 TECHNOLOGIES",
+  "license": "ISC"
+}
