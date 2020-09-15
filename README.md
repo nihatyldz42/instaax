@@ -37,6 +37,8 @@ LAT=37.863
 LNG=32.4811
 FACEBOOK_PLACES_ID=110738488953456
 ```
+### How can I access the cookie? Here is the solution.
+[![N|Solid](https://1.bp.blogspot.com/-k1M9w7jkY-M/X2EVRY7wssI/AAAAAAAAJQM/sD2P7B4_oa8dxSzy8MaZjI4_hV66tUsaQCLcBGAsYHQ/s600/ezgif-7-b1e5ff87c5f5.gif)](https://1.bp.blogspot.com/-k1M9w7jkY-M/X2EVRY7wssI/AAAAAAAAJQM/sD2P7B4_oa8dxSzy8MaZjI4_hV66tUsaQCLcBGAsYHQ/s600/ezgif-7-b1e5ff87c5f5.gif)
 
 ### Start the InstaAx!
 
